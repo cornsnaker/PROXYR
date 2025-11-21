@@ -1,0 +1,11 @@
+{
+  "name": "railway-socks5",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "socksv5": "^1.7.0"
+  }
+}
